@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bec52576-762a-4075-9a41-7148f9a886e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sPH93zPR2pmgmNbVO0NnSTYH06" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.talesayajins.controllers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.talesayajins.services.validation" />
+      <recent name="com.talesayajins.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/talesayajins/services" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/talesayajins/controllers" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FoursalesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="foursales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.talesayajins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.talesayajins.FoursalesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.FoursalesApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bec52576-762a-4075-9a41-7148f9a886e8" name="Default Changelist" comment="" />
+      <created>1620767149146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620767149146</updated>
+      <workItem from="1620767151592" duration="47587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="77" key="#Assign_Data_Sources" timestamp="1620878152651">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="77" key="#Assign_Data_Sources/0.23.1280.777@0.23.1280.777" timestamp="1620878152651" />
+    <state x="240" y="77" key="#Project_Structure" timestamp="1620767478942">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="77" key="#Project_Structure/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620767478942" />
+    <state x="378" y="173" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1620870445107">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="378" y="173" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620774132671" />
+    <state x="378" y="173" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1280.777@0.23.1280.777" timestamp="1620870445107" />
+    <state x="453" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1620872942180">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="453" y="134" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620851573449" />
+    <state x="453" y="134" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1620872942180" />
+    <state x="379" y="278" width="521" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620767868820">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="379" y="278" width="521" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620767868820" />
+    <state x="403" y="122" key="#xdebugger.evaluate" timestamp="1620877190884">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="403" y="122" key="#xdebugger.evaluate/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860669740" />
+    <state x="403" y="122" key="#xdebugger.evaluate/0.23.1280.777@0.23.1280.777" timestamp="1620877190884" />
+    <state width="335" height="438" key="DebuggerActiveHint" timestamp="1620840496736">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="335" height="438" key="DebuggerActiveHint/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620840496736" />
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom" timestamp="1620880748239">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860718537" />
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1620880748239" />
+    <state width="1238" height="197" key="GridCell.Tab.0.center" timestamp="1620880748230">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860718534" />
+    <state width="1238" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1620880748230" />
+    <state width="1238" height="197" key="GridCell.Tab.0.left" timestamp="1620880748224">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860718531" />
+    <state width="1238" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1620880748224" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right" timestamp="1620880748236">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860718536" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1620880748236" />
+    <state width="1238" height="229" key="GridCell.Tab.1.bottom" timestamp="1620880713062">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.1.bottom/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860753334" />
+    <state width="1238" height="229" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1620880713062" />
+    <state width="1238" height="229" key="GridCell.Tab.1.center" timestamp="1620880713057">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.1.center/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860753333" />
+    <state width="1238" height="229" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1620880713057" />
+    <state width="1238" height="229" key="GridCell.Tab.1.left" timestamp="1620880713057">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.1.left/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860753331" />
+    <state width="1238" height="229" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1620880713057" />
+    <state width="1238" height="229" key="GridCell.Tab.1.right" timestamp="1620880713060">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.1.right/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860753333" />
+    <state width="1238" height="229" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1620880713060" />
+    <state width="1238" height="229" key="GridCell.Tab.2.bottom" timestamp="1620880713068">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.2.bottom/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860718110" />
+    <state width="1238" height="229" key="GridCell.Tab.2.bottom/0.23.1280.777@0.23.1280.777" timestamp="1620880713068" />
+    <state width="1238" height="229" key="GridCell.Tab.2.center" timestamp="1620880713065">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.2.center/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860718109" />
+    <state width="1238" height="229" key="GridCell.Tab.2.center/0.23.1280.777@0.23.1280.777" timestamp="1620880713065" />
+    <state width="1238" height="229" key="GridCell.Tab.2.left" timestamp="1620880713065">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.2.left/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860718108" />
+    <state width="1238" height="229" key="GridCell.Tab.2.left/0.23.1280.777@0.23.1280.777" timestamp="1620880713065" />
+    <state width="1238" height="229" key="GridCell.Tab.2.right" timestamp="1620880713066">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="229" key="GridCell.Tab.2.right/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620860718109" />
+    <state width="1238" height="229" key="GridCell.Tab.2.right/0.23.1280.777@0.23.1280.777" timestamp="1620880713066" />
+    <state width="640" height="388" key="XDebugger.FullValuePopup" timestamp="1620849393939">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="640" height="388" key="XDebugger.FullValuePopup/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620849393939" />
+    <state x="183" y="154" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1620880769271">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="183" y="154" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.777@0.23.1280.777" timestamp="1620880769271" />
+    <state x="221" y="136" width="837" height="550" key="find.popup" timestamp="1620879609055">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="221" y="136" width="837" height="550" key="find.popup/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620854028317" />
+    <state x="221" y="136" width="837" height="550" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1620879609055" />
+    <state x="305" y="186" width="670" height="675" key="run.anything.popup" timestamp="1620767722892">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="186" width="670" height="675" key="run.anything.popup/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620767722892" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1620845540569">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777/1280.23.1920.1057@0.23.1280.777" timestamp="1620845540569" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/controllers/CartaoController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/services/CartaoService.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/controllers/CandidatoController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/services/validation/CandidatoInsertValidator.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/controllers/CartaoController.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/controllers/CandidatoController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/services/CartaoService.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/controllers/CartaoController.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/controllers/CandidatoController.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/services/CandidatoService.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/services/CartaoService.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/services/CartaoService.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/controllers/CandidatoController.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/talesayajins/services/CandidatoService.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
